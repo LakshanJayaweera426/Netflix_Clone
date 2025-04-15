@@ -40,6 +40,7 @@ const Home = () => {
         <TitleCards title={"Upcomming"} />
         <TitleCards title={"Top Pics for You"} />
       </div>
+      <Footer />
     </div>
   );
 };
